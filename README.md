@@ -1,2 +1,2 @@
-# tendrl_frontend
-A repository for the frontend UI for Tendrl
+# ui
+A repository for the ui artefacts
