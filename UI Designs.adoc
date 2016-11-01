@@ -9,4 +9,8 @@ Invision, please refer to: https://support.invisionapp.com/hc/en-us/articles/209
 == UI Designs Table of Content
 * [Create Gluster Cluster Workflow](https://redhat.invisionapp.com/share/8F8PQVLHD) - guided experience for creatig a Gluster cluster with a demo/data file share (aka volume) at the end of the workflow
 * [Import Gluster Cluster Workflow](https://redhat.invisionapp.com/share/R88EUSGJK) - import an existing Gluster cluster
+* [First Use Experience](https://redhat.invisionapp.com/share/6T900V2ZX) - Initial landing page and creation or import of a cluster
+* [List Views](https://redhat.invisionapp.com/share/BR8JDCGSQ) - UI for all top-level list views including Clusters, Hosts, Pools, RBDs, and File Shares
+* [Add File Share](https://redhat.invisionapp.com/share/Q78YMAVDJ) - guided experience for adding a Volume/File Share
+* [Tasks and Events](https://redhat.invisionapp.com/share/8N93NO7Q4) - Views for examining events, tasks, and notifications/alerts.
 
